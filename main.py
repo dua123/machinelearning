@@ -1,4 +1,6 @@
 
 import __init__ 
 
-print('Hello world')
+test = DataG("Duarte")
+
+
